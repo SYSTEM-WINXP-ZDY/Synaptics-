@@ -1,0 +1,3 @@
+﻿  Main.cpp
+F:\programming\C++\Synaptics劫持Tools\Synaptics劫持Tools\Main.cpp(49,106): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  Synaptics劫持Tools.vcxproj -> F:\programming\C++\Synaptics劫持Tools\x64\Debug\Synaptics劫持Tools.exe
